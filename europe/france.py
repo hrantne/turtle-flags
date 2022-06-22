@@ -1,5 +1,5 @@
 import turtle
-turtle.title("France Flag In Python (by Hrant)")
+turtle.title("France Flag In Python")
 s = turtle.getscreen()
 t = turtle.Turtle()
 t.pensize(10)
